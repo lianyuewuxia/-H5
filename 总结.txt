@@ -1,0 +1,13 @@
+ 在做的过程中对javascript的理解还需要增加
+
+ 在第一个页面音乐旋转的效果setattribut，还有点击音乐停止的效果多做练习。
+
+ 也是第一次理解类能加Last-of-type属性。
+
+ @keyframes的关键帧
+
+ 有时候因为z-index的顺序错误导致音乐停止效果消失。
+
+ position定位和vh、vw等单位的换算
+ 
+ css学无止境。
